@@ -1,1 +1,2 @@
-# dev-395
+# Calculator
+Simple calculator made with HTML,CSS&JS
